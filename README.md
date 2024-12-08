@@ -9,8 +9,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ### 节点更新订阅  
 - `https://bulinkbulink.com/freefq/free/master/v2`  
 ### 自建节点订阅  
-[bulink.xyz](https://bulink.xyz)注册（要翻墙）除可订阅本页免费节点，还有每月5G自建节点免费流量，不用打卡签到长期有效，欢迎体验  
-新开bulink镜像站[burstlinker.com](https://www.burstlinker.com)（不需要翻墙）  
+[点击查看](https://t.me/qiangfanfan)  
 ## v2ray  
 ```  
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#github.com/freefq%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%201  
